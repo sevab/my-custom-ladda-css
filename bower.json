@@ -1,0 +1,17 @@
+{
+  "name": "my-custom-ladda-css",
+  "version": "0.0.0",
+  "authors": [
+    "Seva Baskin <vabaskin@gmail.com>"
+  ],
+  "description": "'My custom ladda style that only contains zoom-out animation.'",
+  "main": "ladda-custom.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
